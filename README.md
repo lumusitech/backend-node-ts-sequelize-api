@@ -1,1 +1,1 @@
-# Server con node y typescript básico para empezar
+# Server with node and sequelize (mysql) - Basics
